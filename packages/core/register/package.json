@@ -4,6 +4,7 @@
   "main": "./src/register.js",
   "license": "MIT",
   "dependencies": {
-    "@parcel/core": "^2.0.0"
+    "@parcel/core": "^2.0.0",
+    "@parcel/config-default": "^2.0.0"
   }
 }
